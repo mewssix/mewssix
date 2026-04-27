@@ -1,6 +1,6 @@
-#👋 Hi, I’m Jaime Torres!
+# 👋 Hi, I’m Jaime Torres!
 
-I write TypeScript/Go for my day job, other languages because they're cool! 
+I write TypeScript/Go for my day job, elsewhere I write other languages because they're cool! 
 
 ### Here's a few more places where i've collaborated/done stuff!
 
